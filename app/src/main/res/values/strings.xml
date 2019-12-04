@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flickr Example</string>
+    <string name="search_images_hint">Search Images…</string>
+    <string name="loading_images">Loading Images…</string>
+    <string name="error">ERROR!</string>
+    <string name="enter_search_string">Please enter a search string</string>
+
+    <string name="content_description_search_images">Search Images</string>
+    <string name="content_description_images_list">Images List</string>
+    <string name="content_description_image">Image</string>
+</resources>
